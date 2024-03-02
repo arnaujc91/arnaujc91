@@ -1,6 +1,4 @@
-### Hi there, I am Arnau 👋
-
----
+## Hi there, I am Arnau 👋
 
 ### About Me:
 
@@ -14,7 +12,6 @@ I'm a machine learning engineer with a background in theoretical physics. I grad
 
 <div align="center">
 
-### :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=arnaujc91&theme=dark&background=000000)](https://git.io/streak-stats)
 
