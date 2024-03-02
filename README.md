@@ -1,10 +1,10 @@
-### Hi there 👋
+### Hi there, I am Arnau 👋
 
 ---
 
-### About Me :
+### About Me:
 
-I'm Arnau, a machine learning engineer with a background in theoretical physics. I graduated from the Ludwig Maximilian University of Munich, where I delved into the fascinating world of theoretical physics.
+I'm a machine learning engineer with a background in theoretical physics. I graduated from the Ludwig Maximilian University of Munich, where I delved into the fascinating world of theoretical physics.
 
 🧠 Passionate about physics and machine learning, I've transitioned into the realm of artificial intelligence, contributing to open-source projects and leveraging my skills to solve real-world problems.
 
@@ -17,6 +17,8 @@ I'm Arnau, a machine learning engineer with a background in theoretical physics.
 ### :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=arnaujc91&theme=dark&background=000000)](https://git.io/streak-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=arnaujc91&theme=dark&background=000000&show_icons=true)
 
 </div>
 
